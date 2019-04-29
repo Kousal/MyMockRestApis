@@ -2,7 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "hello",
+      "type": "hi",
+      "mass": "24"
+    },
+    {
+      "id": 2,
+      "name": "bye",
+      "type": "tata",
+      "mass": "12"
     }
   ],
   "profile": {
