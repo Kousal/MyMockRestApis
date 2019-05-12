@@ -7,31 +7,31 @@
       "model": "SC60"
     },
      {
-      "id": 1,
+      "id": 2,
       "year": 2016,
       "sales": 1050,
       "model": "SC60"
     },
      {
-      "id": 1,
+      "id": 3,
       "year": 2017,
       "sales": 1100,
       "model": "SC60"
     },
      {
-      "id": 1,
+      "id": 4,
       "year": 2018,
       "sales": 1050,
       "model": "SC60"
     },
      {
-      "id": 1,
+      "id": 5,
       "year": 2019,
       "sales": 1000,
       "model": "SC60"
     },
     {
-      "id": 1,
+      "id": 6,
       "year": 2015,
       "sales" : 1100,
       "model": "SC70"
@@ -43,13 +43,13 @@
       "model": "SC70"
     },
      {
-      "id": 1,
+      "id": 7,
       "year": 2017,
       "sales": 1100,
       "model": "SC70"
     },
      {
-      "id": 1,
+      "id": 8,
       "year": 2018,
       "sales" : 1150,
       "model": "SC70"
@@ -61,35 +61,35 @@
       "model": "SC70"
     },
     {
-      "id": 1,
+      "id": 9,
       "year": 2015,
       "sales" : 1200,
       "model": "XC90"
     },
      {
-      "id": 1,
+      "id": 10,
       "year": 2016,
       "sales" : 1250,
       "model": "XC90"
     },
      {
-      "id": 1,
+      "id": 11,
       "year": 2017,
       "sales": 1100,
       "model": "XC90"
     },
      {
-      "id": 1,
+      "id": 12,
       "year": 2018,
       "sales" : 1250,
       "model": "XC90"
     },
      {
-      "id": 1,
+      "id": 13,
       "year": 2019,
       "sales" : 1200,
       "model": "XC90"
-    },
+    }
   ],
   "profile": {
     "name": "typicode"
